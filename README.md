@@ -1,4 +1,4 @@
-# StringUtil-Librarys
+# StringUtil-Librarys-and-Tests
 Bu repo, `StringUtil` adında çeşitli dize işlemleri için yardımcı işlevler sağlayan bir Java sınıfını ve bu sınıfın işlevlerini test eden `StringUtilTest` sınıfını içermektedir.
 
 ## İçerik
