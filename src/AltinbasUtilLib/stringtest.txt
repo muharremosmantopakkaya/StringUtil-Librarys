@@ -1,0 +1,4 @@
+'efe' TRUE
+'para' FALSE
+'ege' TRUE
+'can' FALSE
