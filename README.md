@@ -6,17 +6,7 @@ Bu repo, `StringUtil` adında çeşitli dize işlemleri için yardımcı işlevl
 - **StringUtil**: Palindrom kontrolü, pangram kontrolü, dize doldurma, Java tanımlayıcısı kontrolü gibi çeşitli dize işlemleri için yardımcı işlevler içerir.
   
 - **StringUtilTest**: `StringUtil` sınıfındaki işlevleri test eden bir JUnit test sınıfıdır.
-- 
-StringUtil:
-
-Palindrom kontrolü
-Pangram kontrolü
-Dize doldurma
-Java tanımlayıcısı kontrolü gibi çeşitli dize işlemleri için yardımcı işlevler içerir.
-
-StringUtilTest:
-
-StringUtil sınıfındaki işlevleri test eden bir JUnit test sınıfıdır.
+  
 
 ## Kullanım
 
